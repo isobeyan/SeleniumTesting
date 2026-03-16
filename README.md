@@ -1,8 +1,5 @@
 # Selenium Web Application Testing — RentalAccessories
 
-> **GitHub About description:**  
-> *Automated end-to-end Selenium tests for a Django-based device rental web application — covering user registration, authentication, password management, and navigation flows with HTML reporting.*
-
 Automated end-to-end test suite built with **Python** and **Selenium WebDriver** for the [RentalAccessories](https://github.com/mr-musfiqur/RentalAccessories) web application — a Django-based device rental platform.
 
 The script exercises critical user-facing workflows (registration, login, password change/reset, navigation) and produces an HTML test report with screenshots for every step.
